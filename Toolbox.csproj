@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="CliWrap" Version="3.6.6" />
+        <PackageReference Include="CliWrap" Version="3.6.7" />
         <PackageReference Include="Microsoft.DependencyValidation.Analyzers" Version="0.11.0" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
         <PackageReference Include="securifybv.ShellLink" Version="0.1.0" />
